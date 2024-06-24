@@ -29,33 +29,8 @@
 
 ###
 
-<p align="left">Я начинающий Frontend разработчик. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила Frontend разработка! С мая 2022 года по апрель 2023 я изучал Frontend разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу!<br><br>- 🔭 Участвовал в бассейне Школы 21 от Сбера.<br>- 📚 Завершил курсы по веб-разработке Яндекс Практикум!<br>- ⚡ Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.</p>
+<p align="left">На данный момент я изучаю Python для анализа данных, SQL и инструменты для BI-аналитики. С февраля 2024 года по июнь 2024 я изучал Аналитику данных на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я в поиске своей первой работы!<br><br>- 📚 Завершил курсы по Аналитике Данных Яндекс Практикум!</p>
 
-###
-<h3 align="left">📕 Мои статьи</h3>
-
-- [Пишем Telegram-бота для подготовки к собеседованию на Frontend-разработчика](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)
-
-###
-
-<h3 align="left">📺 Последние видео на YouTube</h3>
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Как запустить Telegram бота используя pm2?](https://ytcards.demolab.com/?id=9nr46VAYK9E&title=%D0%9A%D0%B0%D0%BA+%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B8%D1%82%D1%8C+Telegram+%D0%B1%D0%BE%D1%82%D0%B0+%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8F+pm2%3F&lang=en&timestamp=1719136895&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Как запустить Telegram бота используя pm2?")](https://www.youtube.com/watch?v=9nr46VAYK9E)
-[![Замена chatGPT для Программистов | Установка llama 3](https://ytcards.demolab.com/?id=-5GTguhGNrs&title=%D0%97%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0+chatGPT+%D0%B4%D0%BB%D1%8F+%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%BE%D0%B2+%7C+%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0+llama+3&lang=en&timestamp=1719134987&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Замена chatGPT для Программистов | Установка llama 3")](https://www.youtube.com/watch?v=-5GTguhGNrs)
-[![Как разместить Telegram Бота на Сервере? | Деплой Телеграм бота на VPS Сервер!](https://ytcards.demolab.com/?id=vPqAYdjkm4o&title=%D0%9A%D0%B0%D0%BA+%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D1%82%D1%8C+Telegram+%D0%91%D0%BE%D1%82%D0%B0+%D0%BD%D0%B0+%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B5%3F+%7C+%D0%94%D0%B5%D0%BF%D0%BB%D0%BE%D0%B9+%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC+%D0%B1%D0%BE%D1%82%D0%B0+%D0%BD%D0%B0+VPS+%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%21&lang=en&timestamp=1719043230&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Как разместить Telegram Бота на Сервере? | Деплой Телеграм бота на VPS Сервер!")](https://www.youtube.com/watch?v=vPqAYdjkm4o)
-[![Как управлять сервером с помощью Telegram бота на JavaScript?](https://ytcards.demolab.com/?id=Mu7h2maLMUc&title=%D0%9A%D0%B0%D0%BA+%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D1%82%D1%8C+%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BE%D0%BC+%D1%81+%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E+Telegram+%D0%B1%D0%BE%D1%82%D0%B0+%D0%BD%D0%B0+JavaScript%3F&lang=en&timestamp=1717836994&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Как управлять сервером с помощью Telegram бота на JavaScript?")](https://www.youtube.com/watch?v=Mu7h2maLMUc)
-[![Бот для подготовки к СОБЕСЕДОВАНИЮ на FRONTEND разработчика | telegram bot: js + grammY](https://ytcards.demolab.com/?id=fzgzOgq5_ho&title=%D0%91%D0%BE%D1%82+%D0%B4%D0%BB%D1%8F+%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8+%D0%BA+%D0%A1%D0%9E%D0%91%D0%95%D0%A1%D0%95%D0%94%D0%9E%D0%92%D0%90%D0%9D%D0%98%D0%AE+%D0%BD%D0%B0+FRONTEND+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0+%7C+telegram+bot%3A+js+%2B+grammY&lang=en&timestamp=1716627603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Бот для подготовки к СОБЕСЕДОВАНИЮ на FRONTEND разработчика | telegram bot: js + grammY")](https://www.youtube.com/watch?v=fzgzOgq5_ho)
-[![Лучшая связка для Программиста: Raspberry Pi и UmbrelOS = ❤️](https://ytcards.demolab.com/?id=F949at7HLSs&title=%D0%9B%D1%83%D1%87%D1%88%D0%B0%D1%8F+%D1%81%D0%B2%D1%8F%D0%B7%D0%BA%D0%B0+%D0%B4%D0%BB%D1%8F+%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0%3A+Raspberry+Pi+%D0%B8+UmbrelOS+%3D+%E2%9D%A4%EF%B8%8F&lang=en&timestamp=1715684416&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Лучшая связка для Программиста: Raspberry Pi и UmbrelOS = ❤️")](https://www.youtube.com/watch?v=F949at7HLSs)
-<!-- END YOUTUBE-CARDS -->
-
-###
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-###
 
 <h3 align="left">🛠 Технологии:</h3>
 
